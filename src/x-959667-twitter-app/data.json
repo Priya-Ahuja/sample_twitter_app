@@ -1,0 +1,209 @@
+{
+    "data": [
+        {
+            "entities": {
+                "urls": [
+                    {
+                        "start": 39,
+                        "end": 62,
+                        "url": "https://t.co/jXNmZ5nhgf",
+                        "expanded_url": "https://nyti.ms/3VLVwO3",
+                        "display_url": "nyti.ms/3VLVwO3",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1608518242028363777/qYtQKAkf?format=png&name=orig",
+                                "width": 1200,
+                                "height": 630
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1608518242028363777/qYtQKAkf?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Wordle - A daily word game",
+                        "description": "Guess the hidden word in 6 tries. A new puzzle is available each day.",
+                        "unwound_url": "https://www.nytimes.com/games/wordle/index.html?smid=tw-nytimes&smtyp=cur"
+                    },
+                    {
+                        "start": 63,
+                        "end": 86,
+                        "url": "https://t.co/xDVo51EfgV",
+                        "expanded_url": "https://twitter.com/nytimes/status/1601580012657852418/photo/1",
+                        "display_url": "pic.twitter.com/xDVo51EfgV",
+                        "media_key": "3_1601580010606936064"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "probability": 0.8659,
+                        "type": "Other",
+                        "normalized_text": "Wordle"
+                    }
+                ]
+            },
+            "attachments": {
+                "media_keys": [
+                    "3_1601580010606936064"
+                ]
+            },
+            "edit_controls": {
+                "edits_remaining": 5,
+                "is_edit_eligible": true,
+                "editable_until": "2022-12-10T14:40:05.000Z"
+            },
+            "id": "1601580012657852418",
+            "created_at": "2022-12-10T14:10:05.000Z",
+            "edit_history_tweet_ids": [
+                "1601580012657852418"
+            ],
+            "author_id": "807095",
+            "lang": "en",
+            "conversation_id": "1601580012657852418",
+            "possibly_sensitive": false,
+            "text": "🟨🟩 How did you do in Wordle today? 🟨🟩  https://t.co/jXNmZ5nhgf https://t.co/xDVo51EfgV",
+            "reply_settings": "everyone",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 82,
+                "like_count": 88,
+                "quote_count": 10
+            }
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1601580010606936064",
+                "height": 1350,
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/Fjn0iLuXwAAvYkl.jpg",
+                "width": 1080,
+                "alt_text": "The headline says Play Wordle with a summary asking: What word will you start with?"
+            }
+        ],
+        "users": [
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 22,
+                                "url": "http://t.co/ahvuWqicF9",
+                                "expanded_url": "http://www.nytimes.com/",
+                                "display_url": "nytimes.com"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "start": 28,
+                                "end": 51,
+                                "url": "https://t.co/ghL9OoYKMM",
+                                "expanded_url": "http://nyti.ms/2FVHq9v",
+                                "display_url": "nyti.ms/2FVHq9v"
+                            }
+                        ]
+                    }
+                },
+                "location": "New York City",
+                "public_metrics": {
+                    "followers_count": 54808478,
+                    "following_count": 860,
+                    "tweet_count": 495056,
+                    "listed_count": 215949
+                },
+                "username": "nytimes",
+                "protected": false,
+                "pinned_tweet_id": "1593683578684047365",
+                "verified": true,
+                "url": "http://t.co/ahvuWqicF9",
+                "id": "807095",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+                "name": "The New York Times",
+                "created_at": "2007-03-02T20:41:42.000Z",
+                "description": "News tips? Share them here: https://t.co/ghL9OoYKMM"
+            }
+        ],
+        "tweets": [
+            {
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 39,
+                            "end": 62,
+                            "url": "https://t.co/jXNmZ5nhgf",
+                            "expanded_url": "https://nyti.ms/3VLVwO3",
+                            "display_url": "nyti.ms/3VLVwO3",
+                            "images": [
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1608518242028363777/qYtQKAkf?format=png&name=orig",
+                                    "width": 1200,
+                                    "height": 630
+                                },
+                                {
+                                    "url": "https://pbs.twimg.com/news_img/1608518242028363777/qYtQKAkf?format=png&name=150x150",
+                                    "width": 150,
+                                    "height": 150
+                                }
+                            ],
+                            "status": 200,
+                            "title": "Wordle - A daily word game",
+                            "description": "Guess the hidden word in 6 tries. A new puzzle is available each day.",
+                            "unwound_url": "https://www.nytimes.com/games/wordle/index.html?smid=tw-nytimes&smtyp=cur"
+                        },
+                        {
+                            "start": 63,
+                            "end": 86,
+                            "url": "https://t.co/xDVo51EfgV",
+                            "expanded_url": "https://twitter.com/nytimes/status/1601580012657852418/photo/1",
+                            "display_url": "pic.twitter.com/xDVo51EfgV",
+                            "media_key": "3_1601580010606936064"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 21,
+                            "end": 26,
+                            "probability": 0.8659,
+                            "type": "Other",
+                            "normalized_text": "Wordle"
+                        }
+                    ]
+                },
+                "attachments": {
+                    "media_keys": [
+                        "3_1601580010606936064"
+                    ]
+                },
+                "edit_controls": {
+                    "edits_remaining": 5,
+                    "is_edit_eligible": true,
+                    "editable_until": "2022-12-10T14:40:05.000Z"
+                },
+                "id": "1601580012657852418",
+                "created_at": "2022-12-10T14:10:05.000Z",
+                "edit_history_tweet_ids": [
+                    "1601580012657852418"
+                ],
+                "author_id": "807095",
+                "lang": "en",
+                "conversation_id": "1601580012657852418",
+                "possibly_sensitive": false,
+                "text": "🟨🟩 How did you do in Wordle today? 🟨🟩  https://t.co/jXNmZ5nhgf https://t.co/xDVo51EfgV",
+                "reply_settings": "everyone",
+                "public_metrics": {
+                    "retweet_count": 14,
+                    "reply_count": 82,
+                    "like_count": 88,
+                    "quote_count": 10
+                }
+            }
+        ]
+    }
+}
